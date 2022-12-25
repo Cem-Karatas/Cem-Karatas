@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Cem <br>👀I'm currently working on pythone and html <br>🌱 I'm currently learning c# and c++<br>📩Shoot me an Email or add me on 👨‍💻 Linkedin <br>
+👋 Hi, I’m Cem <br>👀I'm currently working on python and html <br>🌱 I'm currently learning c# and c++<br>📩Shoot me an Email or add me on 👨‍💻 Linkedin <br>
 
 
 ## 🌐 Socials:
